@@ -1,5 +1,3 @@
-<<<<<<< .mine
-This line is written by A1
-=======
-This line is written by User A
->>>>>>> .theirs
+
+This line is written by User B
+
